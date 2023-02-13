@@ -1,1 +1,1 @@
-0x02 shell IO redirections and filters readme
+Task 0. Hello World
